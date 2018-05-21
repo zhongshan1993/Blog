@@ -8,6 +8,8 @@ JavaScript专题系列 20 篇已完结。
 
 underscore 系列 8 篇已完结。
 
+ES6 系列正在发布中……
+
 ## 专栏
 
 * [掘金主页](https://juejin.im/user/58e4b9b261ff4b006b3227f4)
@@ -71,6 +73,10 @@ underscore 系列 8 篇已完结。
 7. [underscore 系列之实现一个模板引擎(下)](https://github.com/mqyqingfeng/Blog/issues/70)
 8. [underscore 系列之字符实体与 _.escape](https://github.com/mqyqingfeng/Blog/issues/77)
 9. [underscore 的源码该如何阅读？](https://github.com/mqyqingfeng/Blog/issues/79)
+
+## ES6 系列
+
+1. [ES6 系列之 let 和 const](https://github.com/mqyqingfeng/Blog/issues/82)
 
 ## 注意
 
