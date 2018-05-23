@@ -2,11 +2,13 @@
 
 ## 进度
 
-JavaScript深入系列已完结。
+JavaScript深入系列 15 篇已完结。
 
-JavaScript专题系列已完结。
+JavaScript专题系列 20 篇已完结。
 
-underscore 系列正在发布中......
+underscore 系列 8 篇已完结。
+
+ES6 系列正在发布中……
 
 ## 专栏
 
@@ -68,6 +70,13 @@ underscore 系列正在发布中......
 4. [underscore 系列之内部函数 restArgs](https://github.com/mqyqingfeng/Blog/issues/60)
 5. [underscore 系列之防冲突与 Utility Functions](https://github.com/mqyqingfeng/Blog/issues/62)
 6. [underscore 系列之实现一个模板引擎(上)](https://github.com/mqyqingfeng/Blog/issues/63)
+7. [underscore 系列之实现一个模板引擎(下)](https://github.com/mqyqingfeng/Blog/issues/70)
+8. [underscore 系列之字符实体与 _.escape](https://github.com/mqyqingfeng/Blog/issues/77)
+9. [underscore 的源码该如何阅读？](https://github.com/mqyqingfeng/Blog/issues/79)
+
+## ES6 系列
+
+1. [ES6 系列之 let 和 const](https://github.com/mqyqingfeng/Blog/issues/82)
 
 ## 注意
 
